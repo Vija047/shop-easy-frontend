@@ -6,8 +6,8 @@ This is a fully responsive **Shopping Website** built using **React.js** and the
 
 ## 🚀 Live Demo
 
-🌐 [View Live on Netlify](https://your-live-link.netlify.app)  
-📂 [GitHub Repository](https://github.com/yourusername/shopping-website)
+🌐 [View Live on Netlify](https://shop-easy-frontend-dun.vercel.app)  
+📂 [GitHub Repository](https://github.com/Vija047/shop-easy-frontend)
 
 ---
 
