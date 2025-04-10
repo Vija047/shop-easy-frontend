@@ -55,3 +55,5 @@ This is a fully responsive **Shopping Website** built using **React.js** and the
 ![alt text](image-1.png)
 
 ![alt text](image.png)
+
+![alt text](image-2.png)
